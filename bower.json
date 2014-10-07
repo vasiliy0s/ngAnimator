@@ -1,6 +1,6 @@
 {
   "name": "ng-animator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Paradigm of 'central application processor' with requestAnimationFrame technique for AngularJS",
   "main": "ng-animator.js",
   "authors": [
