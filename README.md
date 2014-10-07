@@ -8,15 +8,15 @@ Current module provides `ngAnimator` service with API (see description below) fo
 
 Install this package via bower in your node.js-based project:
 ```bash
-bower i ssh:git@github.com:vasiliy0s/ngAnimator.git --save
+bower i ng-animator --save
 ```
 It automatic installs angular.js bower package as dependency (currently based angular version is _~1_).
 
 If you want to use custom version of module type:
 ```bash
-bower i git@github.com:vasiliy0s/ngAnimator.git#1.0.0 --save
+bower i ng-animator#1.0.3 --save
 ```
-Where is _#1.0.0_ is your needing version.
+Where is _#1.0.3_ is your needing version.
 
 ## Update
 
