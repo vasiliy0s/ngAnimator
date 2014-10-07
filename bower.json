@@ -26,8 +26,6 @@
     "src",
     "test",
     "tests",
-    "README.md",
-    "LICENCE",
     "*.json",
     "*.js",
     "!ng-animator.js",
